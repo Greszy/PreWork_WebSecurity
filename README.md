@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since I already worked with Burp this wasn't a very difficult assignment. I am still working on the last bonus assignment. Hopefully I will remind myself how to complete it. 
 
 ## License
 
